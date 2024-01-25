@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshgoguen
 - 
-- I am currently in my third year of studying Biomedical Engineering at UBC Vancouver
+- I am currently in my fifth and final year of studying Biomedical Engineering at UBC Vancouver
 - Ask me about snowboarding, guitar playing, mountain biking, or staying up late grinding.
 
 <!---
